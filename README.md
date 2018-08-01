@@ -1,2 +1,3 @@
 # gitskills
-add dev branch
+add dev branch;
+test for push;
